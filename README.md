@@ -105,27 +105,7 @@ Create countless prototypes or layouts, then evaluate and refine them based on c
 3. Business Strategy
 Model different organizational structures, marketing campaigns, or financial projections, selecting the best options through iterative feedback.
 
-🧑‍💻 How to Get Started:
-Clone the Repository:
-bash
-Copy code
-git clone https://github.com/YourGitHubHandle/infinity-prompting.git
-Explore the Example Prompts: Browse through the examples/ folder for a variety of use cases.
-Contribute: Feel free to fork this repository, make improvements, and submit a pull request. Let's iterate together!
-🌐 Resources & Documentation:
-Prompt Pattern Templates: Browse through the available templates to get started.
-Infinity Prompting Documentation: Detailed insights on how to use this strategy effectively.
-👥 About the Creator:
-John Vaina is an expert in Adversarial AI Red Teaming and Generative AI Prompt Engineering, focusing on AI innovation through creative and cutting-edge prompt strategies. By pioneering new ways of using generative AI, John has opened the doors to endless possibilities in AI-assisted problem solving and creative exploration.
 
-📬 Contact & Support:
-For inquiries, suggestions, or feedback, feel free to reach out at JohnVspecialist@gmail.com. Your contributions and ideas are always welcome!
-
-⚖️ License:
-This repository is licensed under the MIT License. See the LICENSE file for more details.
-
-🤝 Contributing:
-If you would like to contribute, fork this repository, create a feature branch, and submit a pull request! We're excited to see your contributions to the Infinity Prompting community.
 
 By harnessing Infinity Prompting, you're not just generating answers—you're unlocking the power of AI to explore, iterate, and optimize across diverse domains. Let's build smarter, more creative solutions together.
 
